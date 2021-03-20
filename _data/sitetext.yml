@@ -6,7 +6,7 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
       - title: "E-Commerce"
@@ -21,14 +21,14 @@ services:
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
     
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
