@@ -11,16 +11,16 @@ services:
     list:
       - title: "Bhagwat Katha"
         desc: "Shrimad Bhagwat is the image of the God of God and that is why it is worshiped in reverence. By its recitation and hearing, both enjoyment and salvation are accessible. There is no greater means for purification of mind. Hearing the roar of the lion, as the wolves run away, in the same way all the defects of KalYug are destroyed by the recitation of the Bhagavata. With the mere hearing of this, Hari stay in the heart."
-        icon: fas sun #find more at https://fontawesome.com/icons
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Vastu Shanti Pooja"
         desc: "In Totality Vaastu Shastra is the Key to Success in matters of Health, Wealth and Prosperity. Those who live or work in Vaastu Compliant Places are generally happy with their surroundings and get maximum benefits from the Panch Maha Bhoot's which is abundance in nature by gravitational force , solar energy , lunar energy , spiritual energy and cosmic forces. 100% Vaastu Compliant building if not possible one should always try and make the interior arrangements accordingly and the habitant will benefit physically as well as mentally leading into a successful life.The Positive Energies of NATURE helps the inhabitants to establish themselves in this world and its usage minimizes the negativity surrounded upon the habitants and/or even the visitors."
         icon: fas fa-laptop
       - title: "Ganesh Yagna"
         desc: "Another name of Ganapati is SIDDHIVINAYAK ...THE GOD OF GIVING SUCCESS. It is believed that for becoming a successful man or woman Ganapati plays a very vital role. Ganesha Homa curbs all the impediments that come on the way of your success. This powerful Homa brings luck and prosperity for you. For bringing a positive vibrations at home and work Places, for smooth running of business or services, for starting new ventures such as new Bushiness, investments or a new job; or generally to remove obstacles Ganapati Homa and Aradhana is done."
-        icon: fab sun
+        icon: fab fa-laptop
       - title: "Office Pooja"
         desc: "Office Opening Pooja is required before entering into a new office or working place to have a positive and fresh start to get all the success and happiness in the business. Many negative forces exist in the place and the bad effects of the grahas are removed by performing this pooja."
-        icon: fab sun
+        icon: fab fa-laptop
 
 portfolio:
     title: "Portfolio"
