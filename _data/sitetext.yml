@@ -17,10 +17,10 @@ services:
         icon: fas fa-laptop
       - title: "Shri Satyanarayan katha"
         desc: ""
-        icon: fab fa-laptop
+        icon: fas fa-laptop
       - title: "Satchandi Yagya"
         desc: ""
-        icon: fab fa-laptop
+        icon: fas fa-laptop
       - title: "Grah Shanti Pooja"
         desc: ""
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
@@ -29,10 +29,10 @@ services:
         icon: fas fa-laptop
       - title: "Ramayan Paath"
         desc: ""
-        icon: fab fa-laptop
+        icon: fas fa-laptop
       - title: "Sunderkand Paath"
         desc: ""
-        icon: fab fa-laptop 
+        icon: fas fa-laptop 
       - title: "Greh Shanti Pooja"
         desc: ""
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
@@ -41,10 +41,10 @@ services:
         icon: fas fa-laptop
       - title: "Rudrabhishek"
         desc: ""
-        icon: fab fa-laptop
+        icon: fas fa-laptop
       - title: "Havan"
         desc: ""
-        icon: fab fa-laptop 
+        icon: fas fa-laptop 
       - title: "Vivah"
         desc: ""
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
@@ -53,19 +53,19 @@ services:
         icon: fas fa-laptop
       - title: "Pitra Dosh Nivaran"
         desc: ""
-        icon: fab fa-laptop
+        icon: fas fa-laptop
       - title: "Gayatri Yagya"
         desc: ""
-        icon: fab fa-laptop  
+        icon: fas fa-laptop  
       - title: "Devi Jagran"
         desc: ""
         icon: fas fa-laptop
       - title: "Kundali"
         desc: ""
-        icon: fab fa-laptop
+        icon: fas fa-laptop
       - title: "Rashiyo Ke Anusar Nag"
         desc: ""
-        icon: fab fa-laptop 
+        icon: fas fa-laptop 
         
 portfolio:
     title: "Portfolio"
