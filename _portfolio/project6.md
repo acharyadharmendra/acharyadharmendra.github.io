@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Griha Parvesh Havan
+subtitle: Ferozpur Jhirka, HR
 image: https://raw.githubusercontent.com/acharyadharmendra/acharyadharmendra.github.io/main/assets/img/portfolio/AD-07.jpeg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Griha Parvesh
+  subtitle: Ferozpur Jhirka, HR
   thumbnail: https://raw.githubusercontent.com/acharyadharmendra/acharyadharmendra.github.io/main/assets/img/portfolio/AD-07.jpeg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: February 2021
+- Client: Ferozpur Jhirka, HR
+- Category: Havan
 
