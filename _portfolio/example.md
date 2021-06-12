@@ -13,7 +13,7 @@ alt: image alt text
 ---
 
 {:.list-inline} 
-- Date: Oct 2019
+- Date: October 2019
 - Client: Alwar
 - Category: Yatra
 
