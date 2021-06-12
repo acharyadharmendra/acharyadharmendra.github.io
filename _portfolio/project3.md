@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Shrimad Bhagwat Katha
+subtitle: Kalash Yatra, Alwar
 image: https://raw.githubusercontent.com/acharyadharmendra/acharyadharmendra.github.io/main/assets/img/portfolio/AD-04.jpeg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Shrimad Bhagwat Katha
+  subtitle: Kalash Yatra, Alwar
   thumbnail: https://raw.githubusercontent.com/acharyadharmendra/acharyadharmendra.github.io/main/assets/img/portfolio/AD-04.jpeg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: January 2019
+- Client: Alwar
+- Category: Yatra
 
