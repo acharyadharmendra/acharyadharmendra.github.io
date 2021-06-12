@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/acharyadharmendra/acharyadharmendra.git
 alt: Keep Exploring
 
 caption:
-  title: Griha Parvesh
+  title: Griha Parvesh Havan
   subtitle: Ferozpur Jhirka, HR
   thumbnail: https://raw.githubusercontent.com/acharyadharmendra/acharyadharmendra.github.io/main/assets/img/portfolio/AD-07.jpeg
 ---
